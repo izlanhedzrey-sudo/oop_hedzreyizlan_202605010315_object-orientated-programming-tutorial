@@ -3,7 +3,7 @@
 ##  Student Information
 - **Name:** Hedzrey Izlan Bin Benyamen
 - **Student ID:** 202605010315
-- **Class Code:** DIT1113/BIT1123
+- **Class Code:** DIT1113
 - **Program:** Diploma in Information Technology
 - **Semester:** September 2026
 
